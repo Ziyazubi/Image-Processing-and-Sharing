@@ -6,3 +6,5 @@ It is simple, easy and flexible Image Processing widget based on Java Advanced I
 The sharing module of this project provides features to connect people and allows the users to share the image to another user.
 
 This system does not require high specification hardware, it also works on machines with low technical specifications.
+
+Technologies used : Java(Swing)for GUI and Networking for sharing the image.
